@@ -1,6 +1,6 @@
 # 📄 Personal Resume Website
 
-🔗 **Live Demo:** https://manishjoshi03.github.io/resume/tree/main/revamp
+🔗 **Live Demo:** https://manishjoshi03.github.io/resume/revamp
 
 A simple and responsive personal resume website built using **HTML** and **CSS**.
 
